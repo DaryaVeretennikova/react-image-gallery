@@ -1,6 +1,6 @@
 {
   "name": "react-image-gallery",
-  "version": "0.7.11",
+  "version": "0.7.13",
   "description": "Responsive and flexible carousel component with thumbnail support",
   "main": "./build/image-gallery",
   "scripts": {
@@ -62,6 +62,7 @@
   },
   "dependencies": {
     "lodash.throttle": "^4.1.1",
+    "lodash.debounce": "^4.0.8",
     "react-swipeable": "^3.5.1"
   }
 }
